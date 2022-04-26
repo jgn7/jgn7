@@ -1,4 +1,4 @@
-#                   👋 Hi, I'm James!
+# 👋 Hi!
 ### I'm an Analyst with a B.S. 🏫 in Physics 👨‍🔬 and I LOVE embedded systems.
 
 
